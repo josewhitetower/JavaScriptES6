@@ -2,12 +2,14 @@
 ### Day 8: September 4, 2017    
 
 **Today's Progress**:   
-1. Today I learnt about Sets
-2. Methdos `add`, `delete` ,`size`, `clear`, `has`
+1. Today I learnt about Sets.  
+2. Methdos `add`, `delete` ,`size`, `clear`, `has`.  
+2. Responsive Design  
 
 **Thoughts**:     
-1.  `ninjas=[...refindeNinas]` spread the array ninjas equals to the Set refinedNinjas into individuals components    
-2. `var refinedNinjas= new Set(ninjas)` define a set with the calues of the array (uniques)
+1.  `ninjas=[...refindeNinas]` spread the array ninjas equals to the Set refinedNinjas into individuals components.      
+2. `var refinedNinjas= new Set(ninjas)` define a set with the calues of the array (uniques).  
+3. Metatag `viewport`
 
 ### Day 7: September 3, 2017    
 
