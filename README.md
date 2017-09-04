@@ -9,7 +9,7 @@
 **Thoughts**:     
 1.  `ninjas=[...refindeNinas]` spread the array ninjas equals to the Set refinedNinjas into individuals components.      
 2. `var refinedNinjas= new Set(ninjas)` define a set with the calues of the array (uniques).  
-3. Metatag `viewport`
+3. The viewport Tag `viewport`
 
 ### Day 7: September 3, 2017    
 
