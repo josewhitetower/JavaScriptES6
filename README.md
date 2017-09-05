@@ -1,4 +1,13 @@
 # JavaScript ES6-playlist log
+
+### Day 9: September 5, 2017    
+
+**Today's Progress**:   
+1. Today I learnt about Media Queries.  
+2. Fluid vs Fixed Layouts.  
+
+**Thoughts**:     
+1.  Use relatives measures -> porcentual values.  
 ### Day 8: September 4, 2017    
 
 **Today's Progress**:   
