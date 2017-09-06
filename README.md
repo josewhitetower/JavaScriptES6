@@ -1,5 +1,12 @@
 # JavaScript ES6-playlist log
+### Day 10: September 6, 2017    
 
+**Today's Progress**:   
+1. Today I learnt about Responsive Images.  
+ 
+
+**Thoughts**:     
+1. Pollyfills. Library to use the tag `picture` on IE.  
 ### Day 9: September 5, 2017    
 
 **Today's Progress**:   
