@@ -263,9 +263,4 @@ footer a {
         width: 96%;
         margin: 30px 2% !important;
     }
-    #main-banner img {
-        position: relative;
-        width: 180%;
-        left: -40%;
-    }
 }
