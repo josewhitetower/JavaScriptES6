@@ -61,7 +61,7 @@ header nav li a {
 }
 
 #home-menu ul {
-    padding: 0;
+    padding-right: 30px;
     list-style-type: none;
 }
 
@@ -143,6 +143,7 @@ header nav li a {
 #featured li span {
     float: right;
     color: #333;
+    padding-right: 2%;
 }
 
 #featured ul:after {
@@ -225,6 +226,33 @@ footer a {
         height: 40px;
         width: 100%;
         background: url(images/burger.png) no-repeat 98% center;
+        background-color: #404040;
+        cursor: pointer;
+    }
+    header .wrapper {
+        width: 100%;
+        padding: 0;
+    }
+    header nav ul {
+        overflow: hidden;
+        background: #505050;
+        height: 0;
+    }
+    header nav ul.open {
+        height: auto;
+    }
+    header nav ul li {
+        float: none;
+        text-align: left;
+        width: 100%;
+        margin: 0;
+    }
+    header nav ul a {
+        color: #fff;
+        padding: 10px;
+        border-bottom: 1 solid #404040;
+        display: block;
+        margin: 0;
     }
     #featured li {
         width: 90%;
