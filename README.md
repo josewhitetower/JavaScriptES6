@@ -1,4 +1,6 @@
 # JavaScript ES6-playlist log
+
+983e93590a171d19032c8823868f8bcb0d21fe6c
 ### Day 10: September 6, 2017    
 
 **Today's Progress**:   
